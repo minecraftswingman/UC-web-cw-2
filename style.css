@@ -1,0 +1,19 @@
+.card {
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+#dish-name {
+    color: white;
+}
